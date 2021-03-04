@@ -8,12 +8,16 @@ https://raw.githubusercontent.com/Senkeller/speedupshare1.0/main/csy.yaml
 
 https://raw.githubusercontent.com/Senkeller/speedupshare1.0/main/mk.yaml
 
+https://raw.githubusercontent.com/Senkeller/speedupshare1.0/main/antlink.yaml
+
 v2ray-link
 
 https://raw.githubusercontent.com/Senkeller/speedupshare1.0/main/vy.txt
 
 
 https://raw.githubusercontent.com/Senkeller/speedupshare1.0/main/mk.txt
+
+
 
 
 
