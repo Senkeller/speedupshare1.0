@@ -3,9 +3,13 @@ useing for self
 
 
 clash-link
+
 https://raw.githubusercontent.com/Senkeller/speedupshare1.0/main/csy.yaml
 
+https://raw.githubusercontent.com/Senkeller/speedupshare1.0/main/mk.yaml
+
 v2ray-link
+
 https://raw.githubusercontent.com/Senkeller/speedupshare1.0/main/vy.txt
 
 
