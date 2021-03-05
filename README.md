@@ -19,6 +19,10 @@ https://raw.githubusercontent.com/Senkeller/speedupshare1.0/main/mk.txt
 
 
 
+third party
+
+https://raw.githubusercontent.com/ssrsub/ssr/master/Clash.yml
+
 
 
 
