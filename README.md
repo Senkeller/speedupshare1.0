@@ -17,6 +17,8 @@ https://raw.githubusercontent.com/Senkeller/speedupshare1.0/main/mk.yaml
 
 https://raw.githubusercontent.com/ssrsub/ssr/master/Clash.yml
 
+https://raw.githubusercontent.com/ssrsub/ssr/master/vj.yml
+
         ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
         ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
         
