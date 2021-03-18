@@ -10,6 +10,7 @@ https://v2ray.banyunxiaoxi.ml/
 
 _________________________________________________________________________________________________________________________________________________________________________________
                                ///////// [小。猫。咪。节点。配。置。文。件]  \\\\\\\\\\
+https://raw.githubusercontent.com/Senkeller/speedupshare1.0/main/p.yaml
 
 https://raw.githubusercontent.com/Senkeller/speedupshare1.0/main/Mclash.yaml
 
