@@ -2,11 +2,6 @@
 others
 
                       @@@@@@               [ 第。三。方。配。置。文。件]                                         @@@@@@
-_________________________________________________________________________________________________________________________________________________________________________________
-                                /////////  [v2。节。点。订。阅。链。接]  \\\\\\\\\\
-
-
-https://v2ray.banyunxiaoxi.ml/
 
 _________________________________________________________________________________________________________________________________________________________________________________
                                ///////// [小。猫。咪。节点。配。置。文。件]  \\\\\\\\\\
@@ -16,50 +11,30 @@ https://raw.githubusercontent.com/Senkeller/speedupshare1.0/main/Mclash.yaml
 
 https://raw.githubusercontent.com/Senkeller/speedupshare1.0/main/mk.yaml
 
-https://raw.githubusercontent.com/Senkeller/speedupshare1.0/main/Clash.yml
+https://raw.githubusercontent.com/Senkeller/speedupshare1.0/main/Clash.yaml
 
 https://raw.githubusercontent.com/Senkeller/speedupshare1.0/main/vj.yaml
 
         ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
         ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
         
-self        
+    
   
                   @@@@@@                自。用。配。置。文。件（随缘个更新）                                 @@@@@@                      _________________________________________________________________________________________________________________________________________________________________________________
 
                                     ///////// [小。猫。咪。节点。配。置。文。件]  \\\\\\\\\\
 
 
-https://raw.githubusercontent.com/Senkeller/speedupshare1.0/main/csy.yaml
+https://proxypoolss.tk/clash/proxies?filter=1
 
-https://raw.githubusercontent.com/Senkeller/speedupshare1.0/main/mk.yaml
+https://bihai.cf/clash/proxies?filter=1
 
-https://raw.githubusercontent.com/Senkeller/speedupshare1.0/main/antlink.yaml
+https://proxypoolsstest.herokuapp.com/clash/proxies?filter=1
 
-_________________________________________________________________________________________________________________________________________________________________________________
-
-                                    /////////  [v2。节。点。订。阅。链。接]  \\\\\\\\\\
-
-
-https://raw.githubusercontent.com/Senkeller/speedupshare1.0/main/vy.txt
-
-https://raw.githubusercontent.com/Senkeller/speedupshare1.0/main/mk.txt
-
-——————————————————————————————————————————————————————————————————————————————————————————
+https://free.dswang.ga/clash/proxies?filter=1
 
 
 
-    手机dns服务器
-———————————————————————————————————————————————————————————————————————————————————————
-tw.opoq.xyz
-
-101.32.186.172(台湾海外)
-
-台湾机房
-hd.opoq.xyz (华东地区)
-
-上海机房
-xn.opoq.xyz（西南地区）
 
 
 —————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
