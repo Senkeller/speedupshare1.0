@@ -34,13 +34,16 @@ https://proxypoolsstest.herokuapp.com/clash/proxies?filter=1
 https://free.dswang.ga/clash/proxies?filter=1
 
 
-
-
-
 —————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
 
 
+https://raw.githubusercontent.com/Senkeller/speedupshare1.0/main/1.yaml
 
+https://raw.githubusercontent.com/Senkeller/speedupshare1.0/main/2.yaml
+
+https://raw.githubusercontent.com/Senkeller/speedupshare1.0/main/3.yaml
+
+https://raw.githubusercontent.com/Senkeller/speedupshare1.0/main/4.yaml
 
 
 
