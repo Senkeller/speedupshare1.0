@@ -37,6 +37,9 @@ https://free.dswang.ga/clash/proxies?filter=1
 —————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
 http://buliang0.tk/tool/freeproxy/04-07/clash-1617760712.yml
 
+
+http://buliang0.tk/tool/freeproxy/04-12/clash-58.yml
+
 https://raw.githubusercontent.com/Senkeller/speedupshare1.0/main/1.yaml
 
 https://raw.githubusercontent.com/Senkeller/speedupshare1.0/main/2.yaml
