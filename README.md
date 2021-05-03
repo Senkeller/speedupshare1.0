@@ -1,5 +1,7 @@
 # speedupshare1.0
-others
+others,去除其他订阅地址，简化订阅文件
+更新订阅频率从1到4 依次降低。一般只更新新一下链接
+https://raw.githubusercontent.com/Senkeller/speedupshare1.0/main/1.yaml
 
            ///////// [小。猫。咪。节点。配。置。文。件]  \\\\\\\\
            
