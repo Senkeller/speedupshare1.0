@@ -6,16 +6,6 @@ https://raw.githubusercontent.com/Senkeller/speedupshare1.0/main/1.yaml
            ///////// [小。猫。咪。节点。配。置。文。件]  \\\\\\\\
            
            
-https://raw.githubusercontent.com/Senkeller/speedupshare1.0/main/1.yaml
-
-https://raw.githubusercontent.com/Senkeller/speedupshare1.0/main/2.yaml
-
-https://raw.githubusercontent.com/Senkeller/speedupshare1.0/main/3.yaml
-
-https://raw.githubusercontent.com/Senkeller/speedupshare1.0/main/4.yaml
-
-
-https://t.me/Pharos_x_Announcements
 
 
 
